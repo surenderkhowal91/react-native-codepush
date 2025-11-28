@@ -1,6 +1,6 @@
 {
   "name": "@hrhk/react-native-codepush",
-  "version": "1.0.31",
+  "version": "1.0.32",
   "description": "Custom CodePush Handler",
   "main": "index.js",
   "react-native": "index.js",
@@ -35,12 +35,12 @@
     "update"
   ],
   "repository": {
-  "type": "git",
-  "url": "https://github.com/surenderkhowal91/react-native-codepush.git"
-},
-"bugs": {
-  "url": "https://github.com/surenderkhowal91/react-native-codepush/issues"
- },
+    "type": "git",
+    "url": "https://github.com/surenderkhowal91/react-native-codepush.git"
+  },
+  "bugs": {
+    "url": "https://github.com/surenderkhowal91/react-native-codepush/issues"
+  },
   "homepage": "https://github.com/surenderkhowal91/react-native-codepush#readme",
   "author": "Surender Kumar",
   "license": "MIT",

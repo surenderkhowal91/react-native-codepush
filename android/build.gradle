@@ -1,0 +1,14 @@
+apply plugin: "com.android.library"
+
+android {
+    compileSdkVersion 36
+   namespace "com.skcodepush"
+    defaultConfig {
+        minSdkVersion 24
+        targetSdkVersion 36
+    }
+}
+
+dependencies {
+    implementation "com.facebook.react:react-native:+"  // RN auto-linked
+}

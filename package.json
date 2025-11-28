@@ -1,0 +1,40 @@
+{
+  "name": "@hrhk/react-native-codepush",
+  "version": "1.0.2",
+  "description": "Custom CodePush Handler",
+  "main": "index.js",
+  "react-native": "index.js",
+  "types": "index.d.ts",
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "src",
+    "android",
+    "ios"
+  ],
+  "scripts": {
+    "test": "jest"
+  },
+  "peerDependencies": {
+    "@react-native-async-storage/async-storage": ">=1.0.0",
+    "react": ">=16.0.0",
+    "react-native": ">=0.60.0",
+    "react-native-device-info": ">=10.0.0",
+    "react-native-zip-archive": ">=6.0.0"
+  },
+  "keywords": [
+    "ota",
+    "codepush",
+    "code-push",
+    "over",
+    "the",
+    "air",
+    "app",
+    "update",
+    "soft",
+    "update"
+  ],
+  "author": "Surender Kumar",
+  "license": "MIT",
+  "packageManager": "yarn@3.6.4+sha512.e70835d4d6d62c07be76b3c1529cb640c7443f0fe434ef4b6478a5a399218cbaf1511b396b3c56eb03bc86424cff2320f6167ad2fde273aa0df6e60b7754029f"
+}
